@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(4, 1, 34);
+}
+
+p, h1 {
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+#ent {
+    color: black;
+    font-weight: bold;
+}
+
+#word-area {
+    background-color: white;
+    width: 70%;
+    height: 130px;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+}
+
+#text-input {
+    display: block;
+    margin: auto;
+    border-radius: 3px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-top: 14px;
+    background-color: rgb(150, 255, 144);
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 6px;
+    padding: 5px;
+}
